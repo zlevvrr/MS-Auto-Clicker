@@ -1,4 +1,6 @@
-# MS-Auto-Clicker
+Password For File: Rapid
+
+MS-Auto-Clicker
 MS Auto Clicker is a free and ad-free utility designed to automate mouse clicking, saving users from repetitive manual clicks during gaming or work tasks. By pressing a designated HotKey, the tool performs automatic clicks on behalf of the user, which can be single or double clicks, and supports left, right, or middle mouse buttons. It allows users to record sequences of clicks at different screen positions for repeated playback, enhancing efficiency for complex clicking patterns. Click intervals can be precisely customized in hours, minutes, seconds, or milliseconds, and users can choose to have the clicks continue indefinitely or stop after a set number. The software is compatible with Windows Vista, Windows 7, and 64-bit systems, with versions also available for Android (notably on Chromebooks) and Mac OS. For Chrome users, a browser extension is available but works best on specific pages, with desktop software recommended for optimal performance.
 
 Features
